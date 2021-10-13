@@ -1,6 +1,12 @@
 package com.thoughtworks.quizz;
 
 
-class FizzBuzzTest {
+import org.junit.Test;
 
+public class FizzBuzzTest {
+
+  @Test
+  public void shouldReturnFizzWhenReportGivenInputAs3() {
+
+  }
 }
